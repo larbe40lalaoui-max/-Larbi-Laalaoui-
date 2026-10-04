@@ -1,0 +1,6 @@
+{
+  "name": "نور القرآن - Noor Al-Quran",
+  "description": "تطبيق القرآن الكريم الأصيل بتصميم إسلامي راقٍ وواجهة أندرويد نيتف (Jetpack Compose & Kotlin)، قراءة المصحف الشريف، استماع للتلاوات العطرة، وتصدير كامل لحزمة AAB لنشر التطبيق على Google Play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
